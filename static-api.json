@@ -1,0 +1,10 @@
+[
+    {"nama": "Rumus Persegi", "imageId": "persegi"},
+    {"nama": "Rumus Persegipanjang", "imageId": "persegipanjang"},
+    {"nama": "Rumus lingkaran", "imageId": "lingkaran"},
+    {"nama": "Rumus Trapesium", "imageId": "trapesium"},
+    {"nama": "Rumus Segitiga", "imageId": "segitiga"},
+    {"nama": "Rumus Belahketupat", "imageId": "belahketupat"},
+    {"nama": "Rumus Jajargenjang", "imageId": "jajargenjang"},
+  
+]
